@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lend An Eye</string>
+    <string name="com.pubnub.publishKey" translatable="false">pub-c-988cf141-8474-4874-b5a3-9ff6179c5905</string>
+    <string name="com.pubnub.secretKey" translatable="false">sec-c-ZGIzNzk0N2QtOWJjNy00Yjk4LTk5MDUtMDE3NDRmZWFiN2Ex</string>
+    <string name="com.pubnub.subscribeKey" translatable="false">sub-c-08d732da-1173-11e7-8c73-02ee2ddab7fe</string>
+</resources>

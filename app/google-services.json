@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "337694108668",
+    "firebase_url": "https://android-fb615.firebaseio.com",
+    "project_id": "android-fb615",
+    "storage_bucket": "android-fb615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337694108668:android:15d0307c08be7918",
+        "android_client_info": {
+          "package_name": "com.lendaneye.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337694108668-2v1uib38oks0jhgs0qe83fl0vvf5rj3i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lendaneye.app",
+            "certificate_hash": "e0faa7767f530b9863b6f8a104c67b6304c9b38e"
+          }
+        },
+        {
+          "client_id": "337694108668-1dre8tn8j6etgljnt1f3t5ctm2i2qu4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa9GHzCOvuRfWdx2uYiltiiqMalFVCDMM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337694108668-1dre8tn8j6etgljnt1f3t5ctm2i2qu4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
